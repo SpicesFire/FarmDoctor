@@ -11,7 +11,7 @@ Farm Doctor is a free Minecraft Java Edition mod that checks a farm against the 
 - **8 languages:** English, Turkish, German, Spanish, French, Russian, Brazilian Portuguese, Simplified Chinese.
 - **Free.** No account, no internet, no AI. Spawning rules stay 100% vanilla.
 
-**Website and FAQ: https://spicesfire.com/farmdoctor/**
+**Website, downloads and FAQ: https://spicesfire.com/farmdoctor/** · **Discord: https://discord.gg/PGWsF3fwDP**
 
 ## How to use
 
