@@ -39,7 +39,7 @@ Farm Doctor is a free Minecraft Java Edition mod that checks a farm against the 
 
 ## Download
 
-Get the jar for your loader and Minecraft version from the [latest release](https://github.com/SpicesFire/FarmDoctor/releases/latest), or from https://spicesfire.com/farmdoctor/#get. Modrinth and CurseForge pages are in review.
+Get the jar for your loader and Minecraft version from the [latest release](https://github.com/SpicesFire/FarmDoctor/releases/latest), from [CurseForge](https://www.curseforge.com/minecraft/mc-mods/farm-doctor), or from https://spicesfire.com/farmdoctor/#pharmacy. The Modrinth page is in review.
 
 | Loader | Minecraft | Needs |
 |---|---|---|
