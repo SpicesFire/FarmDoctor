@@ -7,6 +7,7 @@
 Farm Doctor is a free Minecraft Java Edition mod that checks a farm against the real vanilla rules. Problem spots light up in the world, the mobs filling your mob cap glow through walls, and the action bar tells you if your AFK spot is right.
 
 - **12 farm types:** mob, iron, raid (totems), gold, enderman, slime, witch, guardian, spawner, crops & plants, animals, villager breeder.
+- **Build guide:** 20 farm designs shown block by block, and built for you if you want.
 - **Fabric, Forge and NeoForge**, Minecraft 1.20.1 to 26.3.
 - **8 languages:** English, Turkish, German, Spanish, French, Russian, Brazilian Portuguese, Simplified Chinese.
 - **Free.** No account, no internet, no AI. Spawning rules stay 100% vanilla.
@@ -20,6 +21,17 @@ Farm Doctor is a free Minecraft Java Edition mod that checks a farm against the 
 3. Read the report: ✔ fine, ⚠ risky, ✖ stopping the farm.
 
 **Shift + right-click** (or `/farmdoctor menu`) opens a clickable farm list sorted by what you want to farm. By default the doctor guesses the farm type from where you click. `/farmdoctor stop` hides the markers.
+
+## Build guide (new in 1.1.0)
+
+`/farmdoctor guide` (or Shift + right-click → Build) opens **20 proven farm designs**. Every block shows up as a small glowing ghost where it belongs; wrong blocks get a red box.
+
+- **Mob & XP:** mob farm, End XP farm (one-hit kill room, endermite lure, 42-block drop), enderman hole, slime room (snaps to the chunk)
+- **Village:** iron farm (villagers sleep at night, see the zombie by day, golems burn in a 3×3 lava ceiling), villager breeder, trading hall
+- **Plants:** crop field, pumpkin, melon, sugar cane, automatic sugar cane (observers + pistons + hopper minecarts), cactus, bamboo, nether wart, chorus fruit
+- **Animals & more:** egg farm, animal pen, cobblestone generator, auto smelter
+
+Place it with a free camera (arrows move, R turns, PgUp/PgDn height, Home = where you look, Enter places). Then build it yourself or press **Build it for me**: free in creative, from your inventory in survival (any solid block, any bed or carpet colour…). Villagers, the zombie, chickens, animals, hopper minecarts and the endermite are moved into place with one click. When the last block is in, the matching check-up runs by itself.
 
 ## What it checks
 
