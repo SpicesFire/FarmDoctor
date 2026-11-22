@@ -6,7 +6,8 @@
 
 Farm Doctor is a free Minecraft Java Edition mod that checks a farm against the real vanilla rules. Problem spots light up in the world, the mobs filling your mob cap glow through walls, and the action bar tells you if your AFK spot is right.
 
-- **12 farm types:** mob, iron, raid (totems), gold, enderman, slime, witch, guardian, spawner, crops & plants, animals, villager breeder.
+- **13 farm types:** mob, iron, raid (totems), gold, enderman, slime, witch, guardian, spawner, crops & plants, animals, villager breeder, trading hall.
+- **Farm meter and spawn radar:** items per hour from your farm's chest, and the dark caves that steal its mobs.
 - **Build guide:** 20 farm designs shown block by block, and built for you if you want.
 - **Fabric, Forge and NeoForge**, Minecraft 1.20.1 to 26.3.
 - **8 languages:** English, Turkish, German, Spanish, French, Russian, Brazilian Portuguese, Simplified Chinese.
@@ -22,7 +23,15 @@ Farm Doctor is a free Minecraft Java Edition mod that checks a farm against the 
 
 **Shift + right-click** (or `/farmdoctor menu`) opens a clickable farm list sorted by what you want to farm. By default the doctor guesses the farm type from where you click. `/farmdoctor stop` hides the markers.
 
-## Build guide (new in 1.1.0)
+## New in 1.2.0: meter, radar, villagers
+
+- **Farm meter** – Shift + right-click your farm's chest with the scanner (or `/farmdoctor meter`). Items per hour per item, a 30-minute graph, how full the chest is and when it will be full. It warns at 90%, when full, and when nothing arrives for 10 minutes.
+- **Spawn radar** – stand at your AFK spot and run `/farmdoctor radar`. It scans the chunks the game really spawns in (24–128 blocks away) for dark spots outside your farm and marks the biggest ones with red boxes you can see through walls.
+- **Does it run while I'm away?** – every check-up says what the farm needs (simulation distance, the 128-block spawning rule, spawn chunks in older versions); the action bar checks it live while you walk to your AFK spot.
+- **Villagers** – lines to beds (blue) and job blocks (green), food counted for breeders, and a new **trading hall** check-up (jobless, lost job block, nitwits, locked trades, restocking).
+- **Version-aware tips** – gold farm XP since 1.21.5, how raids start in your version, which mobs fill the cap.
+
+## Build guide (1.1.0)
 
 `/farmdoctor guide` (or Shift + right-click → Build) opens **20 proven farm designs**. Every block shows up as a small glowing ghost where it belongs; wrong blocks get a red box.
 
